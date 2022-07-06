@@ -7,6 +7,8 @@ categories:
 #- motoblog
 ---
 
+![hard right meme](https://i.imgflip.com/6lxz2s.jpg)
+
 Hey! Finally found a half decent way of publishing some blog content. I've been
 testing out a few solutions, tried to build my own and momentum just kept
 disappearing.
