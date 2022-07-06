@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://tuuturu.github.io/blog"
-title = "Julius' does things"
+title = "Julius does things"
 languageCode = "en"
 hasCJKLanguage = false
 
@@ -43,6 +43,7 @@ paginate = 5
 disablePathToLower = false
 relativeURLs = false
 uglyURLs = false
+canonifyURLs = true
 
 # URL structure
 [permalinks]
