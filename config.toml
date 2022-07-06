@@ -47,12 +47,10 @@ uglyURLs = false
 # URL structure
 [permalinks]
     categories = "/categories/:slug/"
-    tags = "/tags/:slug/"
 
 # Taxonomies
 [taxonomies]
     category = "categories"
-    tag = "tags"
 
 # Modified date
 [frontmatter]
@@ -116,9 +114,6 @@ uglyURLs = false
     [[related.indices]]
         name = "categories"
         weight = 100
-    [[related.indices]]
-        name = "tags"
-        weight = 95
     [[related.indices]]
         name = "date"
         weight = 10
@@ -219,12 +214,6 @@ uglyURLs = false
         weight = 3
         pre = "internal"
         post = "th"
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "Tags"
-        weight = 4
-        pre = "internal"
-        post = "tags"
     [[menu.main]]
         pageref = "/about/"
         name = "About"
