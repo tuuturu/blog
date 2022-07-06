@@ -1325,7 +1325,7 @@ uglyURLs = false
     # Note: valid for CSS and JS generated
     #       by MemE only
 
-    enableFingerprint = false
+    enableFingerprint = true
 
     enableSRI = false
     # Note: subresource integrity will
