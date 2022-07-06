@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://blog.tuuturu.org/"
+baseURL = "https://tuuturu.github.io/blog/"
 title = "Julius' does things"
 languageCode = "en"
 hasCJKLanguage = false
