@@ -5,6 +5,8 @@ draft: false
 categories:
 - general
 #- motoblog
+tags:
+- gohugo
 ---
 
 ![hard right meme](https://i.imgflip.com/6lxz2s.jpg)
