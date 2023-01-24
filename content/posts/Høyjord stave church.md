@@ -2,7 +2,7 @@
 title: Høyjord stave church
 date: 2022-07-07T12:00:00+02:00
 draft: true
-categories: [motorcycle]
+categories: '[motorcycle]'
 tags: [Stave Church]
 ---
 
