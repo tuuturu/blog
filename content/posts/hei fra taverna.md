@@ -1,7 +1,7 @@
 ---
 title: hei fra taverna
 date: 2022-01-02T12:00:00+02:00
-draft: true
+draft: false
 categories: motoblog programming general
 ---
 
