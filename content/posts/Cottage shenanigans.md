@@ -2,7 +2,7 @@
 title: Cottage shenanigans
 date: 2022-07-08T12:00:00+02:00
 draft: true
-categories: '[motoblog]'
+categories: motoblog
 ---
 
 For centuries, the war has raged between rust and man. To deliver a crushing blow, I decided to take my friend up on his invitation to visit his cottage in Rendalen.
