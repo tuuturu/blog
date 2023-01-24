@@ -2,7 +2,7 @@
 title: Found a client!
 date: 2022-07-06T12:00:00+02:00
 draft: false
-categories: [general]
+categories: '[general]'
 tags: [gohugo]
 ---
 
