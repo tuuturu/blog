@@ -2,7 +2,7 @@
 title: Lunch at Trollsvann
 date: 2022-07-07T12:00:00+02:00
 draft: false
-categories: [motorcycle]
+categories: ["motorcycle"]
 ---
 
 They say trolls used to roam this place.

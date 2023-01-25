@@ -2,8 +2,8 @@
 title: Found a client!
 date: 2022-07-06T12:00:00+02:00
 draft: false
-categories: '[general]'
-tags: [gohugo]
+categories: ["general"]
+tags: ["gohugo"]
 ---
 
 I initially looked for a Git client. Already have a text editor on my phone,
