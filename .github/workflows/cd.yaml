@@ -25,11 +25,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d # v2.6.0
         with:
-          hugo-version: '0.110.0'
+          hugo-version: '0.116.1'
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --gc
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@bd8c6b06eba6b3d25d72b7a1767993c0aeee42e7 # v3.9.2
