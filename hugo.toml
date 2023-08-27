@@ -1,4 +1,4 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://blog.tuuturu.io"
 metaDataFormat = "yaml"
 title = "Odyssey of Julius"
 theme = "blist"
