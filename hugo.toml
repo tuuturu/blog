@@ -149,10 +149,7 @@ DefaultContentLanguageInSubdir = true
   #  url = "https://scholar.google.com/"
   [[params.homepage.social.icons]]
     website = "mastodon"
-    url = "https://joinmastodon.org"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://vimeo.com"
+    url = "https://snabelen.no/@deifyed"
   #[[params.homepage.social.icons]]
   #  website = "youtube"
   #  url = "https://youtube.com"
