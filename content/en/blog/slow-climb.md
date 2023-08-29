@@ -3,7 +3,7 @@ author: "Julius Pedersen"
 title: "Learning the Ropes of Off-Road Riding"
 date: 2023-08-04
 description: "Amidst rain-soaked off-road exploration, a slip and a triumph teach valuable lessons in camaraderie and conquering challenges."
-tags: ["fall"]
+tags: ["drops"]
 thumbnail: /img/slow-climb-lift-thumbnail.jpg
 ---
 

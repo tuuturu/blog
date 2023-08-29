@@ -1,0 +1,8 @@
+{{ if .Site.Params.listTags }}
+  {{ range (.GetTerms "tags") }}
+  <a 
+    class="tag px-2 py-1 rounded w-16"
+    href="{{ .Permalink }}"
+  >{{ .LinkTitle }}</a>
+  {{ end }}
+{{ end }}

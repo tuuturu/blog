@@ -3,7 +3,7 @@ author: "Julius Pedersen"
 title: "Exploring the Woods and Dropping the Bike"
 date: 2023-07-22
 description: "Turned a mushroom-picking day into a two-wheeled adventure, encountered slippery branches, and learned lessons about bikes and boots."
-tags: ["fall"]
+tags: ["drops"]
 thumbnail: /img/first-fall.jpg
 ---
 
