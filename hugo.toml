@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Adventure motorcycling"
       introSubtitle = "Join me on my travels both on road and off"
-      introPhoto = "/img/intro_image.jpg"
+      introPhoto = "/img/cover.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
