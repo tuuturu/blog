@@ -87,3 +87,22 @@ moments define the journey on two wheels. So, despite a minor stumble, I
 emerged from the woods with a story worth telling and memories that added a
 little extra character to my motorcycling adventures.
 
+<!-- original
+My girlfriend asked me if I wanted to go mushroom picking with her. I don't really like mushrooms and I was feeling 
+pretty lazy at the time. Thought soon struck me that I could ride my bike along with her, and explore while she was 
+busy picking mushrooms. I tried to drive the bike wherever possible really. Found a tractor road that led to nowhere 
+really quick, but it was a bit hard to reach the dead end, so I went there anyway. On the way back my girl went off the
+trail to look for mushrooms, and I thought I would try to follow her. Some branches was in the way so I was just 
+playing around trying to get through them really slow. As you can see on the picture, it had been raining (or still was
+I guess), so the branches were wet. I underestimated how slippery they were, and the bike just slipped from under me 
+while trying to get over. 
+
+I've read that all bikes get tired every now and then, so they need to lay down and rest. I guess that was the case 
+here. A few scratches here and there, but no damage to the bike. I almost hurt my foot a bit, but it was fine. Note to
+self: I need better boots.
+
+I've previously dropped my MT-09, which was pretty easy to lift up. Even though the T7 should weigh about the same, it
+was a lot harder to lift up. I don't know if it was the angle, where the weight is focused, the lack of adrenaline this
+time around or if I've just gotten weaker, but luckily my girlfriend came and saved the day. Anyways. 10/10. Great fun
+both exploring the woods and dropping the bike for the first time. These experiences is what I bought it for
+-->

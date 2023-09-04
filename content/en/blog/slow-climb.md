@@ -65,3 +65,23 @@ slopes only added to the thrill, reminding us that every adventure leaves
 behind a story to tell and lessons to learn. As I look back on that slippery
 climb, I'm reminded that challenges, even those on two wheels, are an essential
 part of the journey.
+
+<!-- original
+![Assessing bike after fall](/img/slow-climb-assessing.jpg)
+
+Me and my friend, Kim, went on a ride with the goal of learning how to identify available gravel and off-road paths, get to 
+ride some and just explore our new bikes and our new hobby. It had been raining for quite a while and even though I had
+pretty extensive water proof gear on, I was still getting wet. Even though it was raining, me and Kim have driven a lot
+together, so none of us were really bothered by the rain. We were having a good time. After a while we were able to 
+escape the rain, and eyes were fixed on finding off-road adventures. We came upon a tractor climb which looked 
+interesting. Both of us were hesitant to try it, but after debating for a while we decided to give it a go. We got 
+about half way up before I realized I had to change lane due to a big rock in my way. The rock wasn't really big, but
+to me it was the most terrifying thing I had ever seen. Ish. I tried to change lane, but didn't realize there was a 
+rock beneath the dirt I was riding on. Bike slipped out and I fell. Guess wet things are still slippery. Kim was right 
+behind me but decided to stop instead of passing me. No damage to me or the bike, except for a few scratches on the 
+bike. Kim helped me get the bike up and had heard about a trick to get down from shitty climbs. The trick was to turn 
+off the bike and use the clutch to control the speed. Worked beautifully. One try was enough, so we decided to head to
+the next adventure. I was lucky. Just to the right of were I fell, was a steep drop. Would have been hard getting the 
+bike up from there. Gotta say, the climb was both very fun and a bit scary. Will definitely try it again, but I think
+wet dirt are a bit above my skill level at the moment
+-->
