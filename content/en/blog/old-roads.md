@@ -1,7 +1,7 @@
 ---
 author: "Julius Pedersen"
 title: "The Old Road to Vivestad"
-date: 2023-09-24
+date: 2023-09-23
 description: "Two friends embark on a spontaneous motorcycle adventure, exploring old roads and discovering hidden gems along the way."
 tags: ["exploration"]
 thumbnail: /img/old-roads/top-of-vivestad-road.jpg
