@@ -33,7 +33,7 @@ our breath away. As we began our descent, there was a moment of panic when Kim
 forgot to properly put the sidestand down and the bike toppled over. I couldn't
 help but tease him, saying, "You're not getting points for that one!" You see,
 we have an informal competition to see who can accumulate the most drops by the
-end of the season. With the score still now tied at 2-2, it was clear that our
+end of the season. With the score still tied at 2-2, it was clear that our
 adventure was just getting started.
 
 ![Looking back](/img/old-roads/looking-back.jpg)
