@@ -7,6 +7,9 @@ tags: ["drops"]
 thumbnail: /img/slow-climb-lift-thumbnail.jpg
 ---
 
+![Packed bikes](/img/slow-climb/packed-bikes.jpg)
+<sup>Image taken by Kim Kanten</sup>
+
 ## **Setting Off on a Rainy Day**
 
 My friend Kim and I embarked on a ride with a mission: to master the art of
@@ -36,6 +39,7 @@ an unexpectedly slippery patch. Down I went, tasting a mixture of mud and
 humility.
 
 ![Assessing bike after fall](/img/slow-climb-assessing.jpg)
+<sup>Image taken by Kim Kanten</sup>
 
 ## **Friendship and Triumph**
 
@@ -48,6 +52,9 @@ clutch at my fingertips, I embraced this newfound technique. One attempt, and
 the descent unfolded seamlessly. Victory was ours, and we set our sights on the
 next thrilling chapter.
 
+![Bike on climb](/img/slow-climb/climb.jpg)
+<sup>Image taken by Kim Kanten</sup>
+
 ## **A Precarious Edge**
 
 Luck was on my side that day. Just inches from where I tumbled lay a steep
@@ -55,6 +62,9 @@ drop, a stark reminder of the perilous edge I had skirted. Reflecting on the
 climb, I realized it had been both exhilarating and tinged with trepidation. I
 knew that I'd face it again someday, but I also recognized that conquering damp
 earth might be a feat beyond my current skill level.
+
+![Trying to lift the bike](/img/slow-climb/lift.jpg)
+<sup>Image taken by Kim Kanten</sup>
 
 ## **Conclusion: The Journey's Beat**
 
