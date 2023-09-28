@@ -13,7 +13,6 @@ Have you ever had a friend who could turn any ordinary day into an
 extraordinary adventure? Well, I have a friend like that - Kim. One day, out of
 the blue, he sent me a text message that would set the wheels in motion for a
 memorable motorcycle trip. The conversation went something like this:
-Kim initiated the trip with a text message. The conversation went something like this:
 
 **Kim**: "hello?"
 
