@@ -12,8 +12,8 @@
     <div>
       <h1 class="text-4xl font-bold mb-4">{{ .Site.Params.introTitle | safeHTML}}</h1>
       <p class="font-light text-lg">Drop counter <span class="font-bold">{{ $.Scratch.Get "dropCount" }}</span></p>
-      <p class="font-light text-lg">Distance travelled <span class="font-bold">68 000km</span></p>
       <p class="font-light text-lg">Countries visited <span class="font-bold">8</span></p>
+      <p class="font-light text-lg">Distance travelled <span class="font-bold">68 000km</span></p>
     </div>
     <img class="rounded-lg shadow-sm" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}" />
   </div>
